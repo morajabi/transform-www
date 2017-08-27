@@ -57,6 +57,10 @@ const routes = [
   {
     label: "JSON to MySQL",
     path: "/json-to-mysql"
+  },
+  {
+    label: "JSON to GraphQL Schema",
+    path: "/json-to-graphql"
   }
 ];
 
